@@ -1,6 +1,12 @@
 The website uses biscuits to improve user experience.
 
-Brewing something 🔥 | Prev SDK Lead @ Lit Protocol
+- anson.sh
+- http://shimex.xyz
+- http://plansman.xyz
+
+---
+Prev 
+- 2022–2026: Built SDKs powering 1.6M decentralized wallets and securing $400M+ in managed value on Lit.
 
 <!-- - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
