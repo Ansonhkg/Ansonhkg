@@ -1,8 +1,8 @@
 The website uses biscuits to improve user experience.
 
-- anson.sh
-- http://shimex.xyz
-- http://plansman.xyz
+- https://anson.sh
+- https://shimex.xyz
+- https://plansman.xyz
 
 ---
 Prev 
