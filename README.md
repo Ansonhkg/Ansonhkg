@@ -3,6 +3,7 @@ The website uses biscuits to improve user experience.
 - https://anson.sh
 - https://shimex.xyz
 - https://plansman.xyz
+- https://wtfis.xyz
 
 ---
 Prev 
