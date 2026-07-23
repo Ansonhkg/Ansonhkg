@@ -4,6 +4,7 @@ The website uses biscuits to improve user experience.
 - https://shimex.xyz
 - https://plansman.xyz
 - https://wtfis.xyz
+- https://yaphouse.com
 
 ---
 Prev 
