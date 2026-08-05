@@ -1,11 +1,10 @@
 The website uses biscuits to improve user experience.
 
-- https://anson.sh
-- https://shimex.xyz
-- https://plansman.xyz
-- https://wtfis.xyz
-- https://yaphouse.com
-
+- 🗣️🏘️ https://yaphouse.com
+- 👋 https://anson.sh
+- 🌁 https://shimex.xyz
+- 🧾 https://plansman.xyz
+- 😱 https://wtfis.xyz
 ---
 Prev 
 - 2022–2026: Built SDKs powering 1.6M decentralized wallets and securing $400M+ in managed value on Lit.
