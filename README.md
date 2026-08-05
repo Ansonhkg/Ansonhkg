@@ -1,6 +1,6 @@
 The website uses biscuits to improve user experience.
 
-- 🗣️🏘️ https://yaphouse.com
+- 🗣️🏘️ https://yaphaus.com
 - 👋 https://anson.sh
 - 🌁 https://shimex.xyz
 - 🧾 https://plansman.xyz
