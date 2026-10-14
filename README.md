@@ -8,6 +8,8 @@
 ---
 Prev 
 - 2022–2026: Built SDKs powering 1.6M decentralized wallets and securing $400M+ in managed value on Lit.
+- 2014 D3 auction house sales 10K MRR
+- 2009 10K MRR in dropshipping
 
 <!-- - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
