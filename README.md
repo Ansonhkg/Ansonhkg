@@ -1,3 +1,5 @@
+- 👻 [ShappyOS](https://shappy.dev) — where founders and Bots work as one team
+- - 👻 [ShappyChat](https://chat.shappy.dev) — one AI chat for all your apps. It uses your app's own tools, never loses a turn, and runs on your server with the models that you choose.
 - 🗣️🏘️ [YapHaus](https://yaphaus.com) — managed Buzz relay hosting for private communities, without the server hassle
 - 👋 [anson.sh](https://anson.sh) — my personal site for developer tools, agent workflows, and open-web projects
 - 🌁 [Shimex](https://shimex.xyz) — a local OpenAI-compatible gateway for using more AI providers in Codex Desktop
